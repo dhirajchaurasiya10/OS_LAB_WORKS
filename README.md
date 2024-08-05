@@ -1,0 +1,2 @@
+# Operating System LAB WORKS
+This contains all the lab assignments of Operating System subject including detailed explanations and discussions on various system calls and their use cases, as well as a C program for the producer-consumer problem. 
